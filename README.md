@@ -94,6 +94,10 @@ A Python EDA Project which analysis about sales generated from which type of cus
 
 **Python ( Pandas, Seaborn, Matplotlib ) :** Data Cleaning, Charts Creation, Visualizations
 
+## Limitations/Challenges
+- The project proceeded smoothly without any significant challenges.
+- It provided an excellent learning opportunity, allowing me to enhance my skills and gain valuable insights along the way.
+
 ## Future Scope
 - Can improve customer experience by identifying potential customers across different states, occupation, gender and age groups
 - Can improve sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
