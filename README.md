@@ -2,9 +2,10 @@
 src="https://st2.depositphotos.com/1001941/12106/v/950/depositphotos_121061276-stock-illustration-diwali-sale-offer-flyer-or.jpg">
 
 # Diwali-Sales-Analysis
+## Project Description
 A Python EDA Project which analysis about sales generated from which type of customers, from which region, which products they buy, what age groups they belong to and many more
 
-## Overview
+## Outline of the Problem
 - The task at hand is to perform Exploratory Data Analysis on Diwali sales data provided by a company. 
 - The analysis should aim to identify ways to increase revenue and improve customer experience. 
 - The results of the analysis should be presented in the form of easy-to-understand charts and graphs to provide important insights into the sales model.
