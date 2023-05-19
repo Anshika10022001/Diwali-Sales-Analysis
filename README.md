@@ -47,7 +47,7 @@ A Python EDA Project which analysis about sales generated from which type of cus
 
 ![vis7](https://github.com/Anshika10022001/Diwali-Sales-Analysis/assets/128470731/08eca589-27bb-4ddc-8b78-426e52e58179)
 
-### From above graph we can see that most of the customers are unmarried
+### From above graph we can see that most of the customers are married
 
 ![VIS8](https://github.com/Anshika10022001/Diwali-Sales-Analysis/assets/128470731/3280c497-f788-4ecb-9281-eaadb6bd1a03)
 
@@ -71,7 +71,7 @@ A Python EDA Project which analysis about sales generated from which type of cus
 
 ## Important Insights
 ### Most of the sales are generated from prople who are:
-- Unarried females
+- Married females
 - age group 26-35 yrs 
 - from UP,  Maharastra and Karnataka 
 - from Central Zone
