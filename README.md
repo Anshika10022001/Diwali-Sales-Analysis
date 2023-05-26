@@ -92,7 +92,47 @@ A Python EDA Project which analysis about sales generated from which type of cus
 
 ## Tech Stack
 
-**Python ( Pandas, Seaborn, Matplotlib ) :** Data Cleaning, Charts Creation, Visualizations
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Data Cleaning, Dataframe manipulations
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Charts Creation, Visualizations
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Charts Creation, Visualizations
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## Limitations/Challenges
 - The project proceeded smoothly without any significant challenges.
